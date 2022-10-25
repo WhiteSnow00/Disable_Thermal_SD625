@@ -1,0 +1,6 @@
+id=NDTS
+name=Disable Thermal Snapdragon 625
+version=v1
+versionCode=1
+author=Cacing Pita
+description=New Disable Thermal for kernel build 4.9 and 3.18
